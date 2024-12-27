@@ -1,1 +1,3 @@
 console.log("OMG what am i doing");
+const myHeading = document.querySelector("h1");
+myHeading.textContent = "Hello world!";
